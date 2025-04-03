@@ -22,7 +22,7 @@ Check out my latest work at **[My Portfolio](https://alverahman.vercel.app/)**.
 
 ## My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alve-2019331050&show_icons=true&theme=radical" alt="Alve's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alve-2019331050&show_icons=true&count_private=true&theme=radical" alt="Alve's GitHub stats">
 </p>
 
 ## My Handles
